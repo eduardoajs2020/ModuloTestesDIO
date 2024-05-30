@@ -4,7 +4,7 @@ namespace CalculadoraTestes;
 
 public class CalculadoraTests
 {
-    private CalculadoraImp _calc;
+    private readonly CalculadoraImp _calc;
 
     public CalculadoraTests()
     {
